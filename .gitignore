@@ -1,0 +1,16 @@
+*
+
+!*/
+
+!*.c
+!*.cpp
+!*.h
+!*.txt
+!*.py
+!*.csv
+!*.png
+!*.jpg
+!README.md
+!.gitignore
+
+build/
